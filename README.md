@@ -54,8 +54,8 @@ multi-functional-ai-assistant/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-ai-assistant.git
-cd smart-ai-assistant
+git clone https://github.com/Rishab0572/multifunctional-ai-assistant.git
+cd multifunctional-ai-assistant
 ```
 
 2. Create a virtual environment:
