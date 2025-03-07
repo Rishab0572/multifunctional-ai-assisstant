@@ -1,0 +1,59 @@
+Lung cancer is caused by smoking and air pollution.
+Early symptoms include persistent cough and chest pain.
+Chemotherapy and immunotherapy are common treatments.
+Lung cancer is the leading cause of cancer deaths worldwide, accounting for approximately 1.8 million deaths annually.
+There are two main types of lung cancer: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC).
+NSCLC makes up about 85% of all lung cancer cases, while SCLC accounts for the remaining 15%.
+Tobacco smoking is responsible for about 80-90% of lung cancer cases, making it the primary risk factor.
+Second-hand smoke exposure increases lung cancer risk by 20-30% in non-smokers.
+Radon gas exposure is the second leading cause of lung cancer in the United States.
+Occupational exposures to carcinogens like asbestos, arsenic, and diesel exhaust are significant risk factors.
+Common symptoms of lung cancer include persistent cough, chest pain, shortness of breath, hoarseness, and weight loss.
+Advanced symptoms may include bone pain, headaches, and neurological problems if cancer spreads to other organs.
+Hemoptysis, or coughing up blood, can be a concerning symptom that requires immediate medical attention.
+Lung cancer is often diagnosed using imaging tests like chest X-rays, CT scans, or PET scans.
+Biopsy procedures are required to confirm the diagnosis and determine the specific type of lung cancer.
+Stage I lung cancer is localized and has not spread to lymph nodes or distant organs.
+Stage II lung cancer may involve nearby lymph nodes but has not metastasized to distant sites.
+Stage III lung cancer has spread to lymph nodes in the middle of the chest or to nearby structures.
+Stage IV lung cancer has metastasized to distant organs like the brain, bones, liver, or other lung areas.
+Surgery is the preferred treatment for early-stage lung cancer when patients are eligible.
+Radiation therapy uses high-energy rays to kill cancer cells and can be used alone or with other treatments.
+Chemotherapy drugs are used to kill rapidly dividing cancer cells throughout the body.
+Targeted therapy drugs attack specific genetic mutations found in some lung cancers, like EGFR, ALK, or ROS1 alterations.
+Immunotherapy helps the immune system recognize and attack cancer cells, often by targeting PD-1/PD-L1 pathways.
+Five-year survival rates vary from 60% for localized lung cancer to 6% for metastatic disease.
+Smoking cessation is the most effective way to prevent lung cancer, reducing risk gradually over time.
+Screening with low-dose CT scans is recommended for high-risk individuals between ages 50-80 with significant smoking history.
+Genetic factors may influence lung cancer risk, even in never-smokers.
+Air pollution is linked to approximately 1 in 10 lung cancer cases globally.
+Lung cancer often has no symptoms until it has spread, making early detection challenging.
+Palliative care focuses on improving quality of life and managing symptoms for advanced lung cancer patients.
+Clinical trials offer access to experimental treatments and are essential for advancing lung cancer therapy.
+Biomarker testing helps identify specific genetic alterations that can guide treatment decisions.
+Liquid biopsies can detect cancer DNA in blood samples and may help monitor treatment response.
+Survivorship care plans are important for lung cancer patients who complete treatment.
+Pulmonary rehabilitation can help improve breathing and quality of life after lung cancer treatment.
+Stereotactic body radiation therapy (SBRT) delivers precise, high-dose radiation to small tumors.
+Video-assisted thoracoscopic surgery (VATS) is a minimally invasive surgical technique for lung cancer.
+Pneumonectomy involves removing an entire lung and is sometimes necessary for extensive disease.
+Lobectomy, or removal of a lung lobe, is the most common surgery for lung cancer.
+Wedge resection removes the tumor and a small amount of surrounding tissue.
+Small cell lung cancer typically responds well to chemotherapy initially but often recurs.
+Paraneoplastic syndromes can cause symptoms unrelated to the physical effects of the tumor.
+Lambert-Eaton myasthenic syndrome is a neuromuscular disorder that can occur with small cell lung cancer.
+SIADH (syndrome of inappropriate antidiuretic hormone) can cause low sodium levels in lung cancer patients.
+Cushing's syndrome can develop from hormones produced by some lung tumors.
+Maintenance therapy may help extend remission in advanced non-small cell lung cancer.
+Cachexia, or wasting syndrome, is common in advanced lung cancer and affects quality of life.
+Bronchoscopy allows doctors to look inside the airways and collect tissue samples.
+Mediastinoscopy examines lymph nodes in the chest to determine if cancer has spread.
+Thoracentesis may be performed to drain fluid from around the lungs and test for cancer cells.
+Endobronchial ultrasound (EBUS) helps locate and biopsy lymph nodes near the airways.
+Molecular testing identifies specific mutations and helps guide precision medicine approaches.
+Next-generation sequencing can identify numerous genetic alterations in a single test.
+Tumor mutational burden measures the number of mutations and may predict immunotherapy response.
+PD-L1 expression testing helps determine if a patient may benefit from certain immunotherapies.
+Lung cancer research focuses on early detection, targeted therapies, and improving survival rates.
+Support groups provide emotional support and practical advice for lung cancer patients and families.
+Financial toxicity refers to the economic burden of lung cancer treatment on patients.
